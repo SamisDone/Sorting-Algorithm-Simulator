@@ -103,7 +103,7 @@ class SortingVisualizer {
                 label.style.top = '-20px';
                 label.style.left = '50%';
                 label.style.transform = 'translateX(-50%)';
-                label.style.color = '#333';
+                label.style.color = '#fff';
                 bar.appendChild(label);
             }
             
